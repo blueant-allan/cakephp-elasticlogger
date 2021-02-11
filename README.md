@@ -1,4 +1,4 @@
-# CakePHP ElasticLogger is a custom logger plugin for Cloudstaff
+# ElasticLogger is a custom logger plugin for Cloudstaff
 
 A CakePHP plugin for creating custom logs. Using CakePHP version 3.x
 
