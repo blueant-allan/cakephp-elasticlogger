@@ -49,7 +49,8 @@ The component will expect the following parameters:
 * EventType Can be use to describe the type of event being written to logs
 * Message content message of your logs
 * **(Optional)** this third parameter is optional. In case you need to pass a 
-object or array, you may use this third parameter that object or array to your logs
+object or array, you may use this third parameter to add that object or array 
+to your logs
 
 
 Create an activity information log:
