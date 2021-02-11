@@ -1,0 +1,14 @@
+{
+    "name": "blueant-allan/elasticlogger",
+    "description": "A CakePHP custom log plugin for Cloudstaff",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "require": {
+        "cakephp/cakephp": "^3.5"
+    },    
+    "autoload": {
+        "psr-4": {
+            "ElasticLogger\\": "src/"
+        }
+    }    
+}
